@@ -74,7 +74,7 @@ sudo apt install latex-cjk-all
 "latex-workshop.message.error.show": false,
 "latex-workshop.message.warning.show": false,
 
-/*  自动清理，清楚缓存后，单次编译会有问题。
+/*  自动清理，清除缓存后，单次编译有时候会有问题。
 "latex-workshop.latex.autoClean.run": "onBuilt",  //onFailed
 "latex-workshop.latex.clean.fileTypes": [
   "*.aux",
