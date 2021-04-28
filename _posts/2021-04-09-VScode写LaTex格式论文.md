@@ -471,11 +471,11 @@ sudo apt install latex-cjk-all
 \subsection{第二部分的子部分}
 这里是第二部分的子部分
  
-\section{一些工具}
-插入公式
-\begin{equation}\label{eq}
-  \gamma _2^{\text{C}} = \frac{{{P_{RT}}g}}{{{P_{BT}}d_{_{{B_2}2}}^{ - \alpha } + {N_0}}}
-\end{equation}
+%\section{一些工具}
+%插入公式
+%\begin{equation}\label{eq}
+%  \gamma _2^{\text{C}} = \frac{{{P_{RT}}g}}{{{P_{BT}}d_{_{{B_2}2}}^{ - \alpha } + {N_0}}}
+%\end{equation}
  
 %插入图片
 %\begin{figure}[H]   %*表示可跨栏，如果不需要可去掉
