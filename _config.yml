@@ -4,7 +4,7 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Vic.Wang
+title: Victor is king
 subtitle:
 description: passion determines how far you can go.
 author: Wang Chen
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'http://vic.wang'
+url: 'http://vik.wang'
 baseurl: '/blog'
 permalink: pretty
 
